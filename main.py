@@ -2,8 +2,8 @@ from typing import final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN: final = 'Token No'
-BOT_USERNAME: final = 'User name'
+TOKEN: final = '6759192612:AAEVFQBDcN0Uy8ztxawVVdUfZTShkyW5NTY'
+BOT_USERNAME: final = '@Doodlee_122bot'
  
 
  # Commands
